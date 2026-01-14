@@ -120,6 +120,8 @@ public class MatrixMathematics {
 //		return (transpose(cofactor(matrix)).multiplyByConstant(1.0/determinant(matrix)));
 //	}
 
+	
+
 
 	/**
 	 * Inverse of a matrix - A-1 * A = I where I is the identity matrix
